@@ -35,3 +35,10 @@
 
 ## 2. Sketching
 
+- Sketching process
+- Szkicowanie user flow
+  - Pomyśl co użytkownik musi zrobić aby osiągnąć określony cel
+  - Jaki jest "happy flow" dla danego proceu
+  - Jakie sa kolejne etapy w procesie
+  - Możesz zacząć od końca
+  - Naszkicuj "wireframe", aby zobrazować user flow
