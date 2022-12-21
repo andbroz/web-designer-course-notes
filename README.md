@@ -42,3 +42,10 @@
   - Jakie sa kolejne etapy w procesie
   - Możesz zacząć od końca
   - Naszkicuj "wireframe", aby zobrazować user flow
+
+## 3. Inspiration
+
+- Spacery pomagają się inspirowac
+- [Dribble](https://dribbble.com/)
+
+## 4. Figma
